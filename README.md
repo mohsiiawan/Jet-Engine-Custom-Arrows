@@ -43,6 +43,8 @@ This approach is:
    - Appends a new option: `custom_svg`
 
    <img width="392" height="895" alt="image" src="https://github.com/user-attachments/assets/aa7e948b-3ab0-4949-a7fa-1965e53d6895" />
+   <img width="527" height="113" alt="image" src="https://github.com/user-attachments/assets/17cc5b30-75b7-4b01-a5d2-14aa5440e158" />
+
 
 
 2. **Frontend (JavaScript)**
