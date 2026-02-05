@@ -42,6 +42,9 @@ This approach is:
    - Detects the Arrow Icon dropdown inside JetEngine Listing Grid
    - Appends a new option: `custom_svg`
 
+   <img width="392" height="895" alt="image" src="https://github.com/user-attachments/assets/aa7e948b-3ab0-4949-a7fa-1965e53d6895" />
+
+
 2. **Frontend (JavaScript)**
    - Reads JetEngine’s real slider configuration from the `data-nav` attribute
    - Checks for:
